@@ -1,4 +1,4 @@
-# **Horoscope Generator (Mixed Messages) Portfolio**
+# **Horoscope Message Generator **
 
 A Javascript program that generates random Horoscope readings.
 
